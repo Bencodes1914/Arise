@@ -337,6 +337,19 @@ button{
     color: #a1a1aa;
 }
 
+.why-us-tag{
+    border: 1px solid rgba(255, 255, 255, 0.1);
+   border-radius: 20px;
+   width: 70px;
+   height: 30px;
+   align-items: center;
+   text-align: center;
+   padding-top: 5px;
+   justify-content: center;
+   margin-left: 650px;
+   margin-bottom: 10px;
+}
+
 .why-us > h6{
     font-size: 20px;
 }
@@ -392,6 +405,17 @@ button{
     margin-bottom: 20px;
 }
 
+.process-tag{
+    border: 1px solid rgba(255, 255, 255, 0.1);
+   border-radius: 20px;
+   width: 80px;
+   height: 30px;
+   align-items: center;
+   text-align: center;
+   padding-top: 5px;
+   margin-left: 650px;
+}
+
 .process > h4, .process > h2 {
     margin-bottom: 20px;
 }
@@ -417,6 +441,13 @@ button{
   color: white;
   margin-bottom: 10px;
   text-align: center;
+  border: 1px solid rgba(255, 255, 255, 0.1);
+   border-radius: 20px;
+   width: 80px;
+   height: 30px;
+   align-items: center;
+   padding-top: 5px;
+   margin-left: 300px;
 }
 
 div > p {
@@ -514,6 +545,17 @@ a > img{
   margin-top: 120px;
   text-align: center;
   margin-bottom: 20px;
+}
+
+.tool-tag{
+    border: 1px solid rgba(255, 255, 255, 0.1);
+   border-radius: 20px;
+   width: 70px;
+   height: 30px;
+   align-items: center;
+   text-align: center;
+   padding-top: 5px;
+   margin-left: 650px;
 }
 
 .tools > h4, .tools > h2 {
